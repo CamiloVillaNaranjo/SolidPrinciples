@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OCPPrinciple": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\curso\\Solid"
+    }
+  }
+}

@@ -1,4 +1,4 @@
-#SOLIDPrinciples Solution
+# SOLIDPrinciples Solution
 
 In this solution, I save different projects, each of which points to a particular Principle of SOLID, that's how we find
 SRPPrinciple, OCPPrinciple, LSPPrinciple, ISPPrinciple, & DIPPrinciple.
